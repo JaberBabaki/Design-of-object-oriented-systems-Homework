@@ -21,3 +21,7 @@ E:\daneshgah\karshnasi\C sharp project\mangeClinic\mangeClinic\obj\Debug\mangeCl
 E:\daneshgah\karshnasi\C sharp project\mangeClinic\mangeClinic\obj\Debug\mangeClinic.Form2.resources
 E:\daneshgah\karshnasi\C sharp project\mangeClinic\mangeClinic\obj\Debug\mangeClinic.Resources.resources
 E:\daneshgah\karshnasi\C sharp project\mangeClinic\mangeClinic\obj\Debug\mangeClinic.vbproj.GenerateResource.Cache
+E:\daneshgah\karshnasi\1\C#\Design of object-oriented systems\mangeClinic\mangeClinic\bin\Debug\mangeClinic.exe.config
+E:\daneshgah\karshnasi\1\C#\Design of object-oriented systems\mangeClinic\mangeClinic\obj\Debug\mangeClinic.exe
+E:\daneshgah\karshnasi\1\C#\Design of object-oriented systems\mangeClinic\mangeClinic\obj\Debug\mangeClinic.xml
+E:\daneshgah\karshnasi\1\C#\Design of object-oriented systems\mangeClinic\mangeClinic\obj\Debug\mangeClinic.pdb
